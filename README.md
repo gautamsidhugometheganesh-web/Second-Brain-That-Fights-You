@@ -2,7 +2,7 @@
 An AI productivity system that challenges, contradicts, and interrogates you instead of politely agreeing.
 Core Features (MVP)
 
-You only need 3 features to launch:
+We only need 3 features to launch:
 
 1️⃣ Memory Engine
 
